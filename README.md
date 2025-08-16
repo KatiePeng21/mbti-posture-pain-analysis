@@ -21,5 +21,5 @@ Is there a significant correlation between an individual's posture, MBTI type, a
 - **EDA**: Summary statistics, group comparisons, correlation analysis
 - **Visualization**: Matplotlib/Seaborn plots for trends and relationships
 
-## 🖥 Presentation
+## Presentation
 [View Google Slides Presentation](https://docs.google.com/presentation/d/1AHky_1kJ4msiMowqvIRaPYxJL36ATWCNfLWZdAkskSU/edit?usp=sharing)
